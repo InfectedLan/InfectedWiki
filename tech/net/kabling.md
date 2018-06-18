@@ -1,8 +1,8 @@
 # Cabling Infected
 
-##
-##
-##
+###
+###
+###
 ### Kant-lengder
 
 ---
@@ -51,9 +51,9 @@
 | **40m** | 18
 | **50m** | 4
 
-##
-##
-##
+###
+###
+###
 ### Dvs Lengder:
 ---
 
@@ -64,9 +64,9 @@
 | **AP**              | 6
 | **Scene**           |   |     | 1
 
-##
-##
-##
+###
+###
+###
 ### Total:
 ---
 |     | Antall | Bestilling | Lengde
